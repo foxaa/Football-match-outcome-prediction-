@@ -1,0 +1,173 @@
+﻿body{
+	/*background-color: #2B2B2B;*/
+	background-color: #404040;
+	color:white;
+}
+
+.pokusaj{
+    background-color:darkgray;
+}
+#sa{
+	background-color: red;
+}
+.top_page_row{
+	background-color:darkred;
+	color:white;
+	font-weight: 900px;
+	text-align:center;
+}
+.title{
+	padding-top: 100px;
+	font-family:sans-serif;
+	font-style:italic;
+	text-align:center;
+	font-size:300%;
+}
+.subtitle{
+	font-family:sans-serif;
+	font-style:italic;
+	text-align:center;
+	font-size:150%;
+}
+.logo{
+	vertical-align:center;
+}
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: black;
+}
+
+.navbar-inverse .navbar-brand {
+	color:black;
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus{
+	color:black;
+}
+
+.navbar-inverse .navbar-nav > .open > a, 
+.navbar-inverse .navbar-nav > .open > a:hover, 
+.navbar-inverse .navbar-nav > .open > a:focus {
+    color: white;
+    background-color: black;
+}
+
+.navbar-inverse .navbar-nav > .active > a{
+	color:white;
+}
+
+.pocetna_content_title{
+	margin-top:40px;
+	text-align:center;
+	font-family:fantasy;
+	font-style:italic;
+	font-size:250%;
+}
+
+.pocetna_content{
+	margin-top:60px;
+	text-align:center;
+	font-family:cursive;
+	font-style:italic;
+	font-size:80%;
+    color:black;
+}
+
+.unos{
+    margin-top:60px;
+	text-align:center;
+	font-family:cursive;
+	font-style:italic;
+	font-size:120%;
+
+}
+
+.seniorplayers_content_title{
+	margin-top:40px;
+	text-align:center;
+	font-family:fantasy;
+	font-style:italic;
+	font-size:250%;
+}
+
+.seniorplayers_content{
+	margin-top:60px;
+	text-align:center;
+	font-family:cursive;
+	font-style:italic;
+	font-size:80%;
+}
+
+#people{
+	font-size: 14px;
+}
+
+.table tbody tr:hover td {
+    background-color:red;
+}
+
+th{
+	background-color:darkred;
+	text-align:center;
+}
+
+.youthplayers_content_title{
+	margin-top:40px;
+	text-align:center;
+	font-family:fantasy;
+	font-style:italic;
+	font-size:250%;
+}
+
+.youthplayers_content{
+	margin-top:60px;
+	text-align:center;
+	font-family:cursive;
+	font-style:italic;
+	font-size:80%;
+}
+
+.coachingstaff_content_title{
+	margin-top:40px;
+	text-align:center;
+	font-family:fantasy;
+	font-style:italic;
+	font-size:250%;
+}
+
+.coachingstaff_content{
+	margin-top:60px;
+	text-align:center;
+	font-family:cursive;
+	font-style:italic;
+	font-size:80%;
+}
+
+#trophy{
+	font-size:12px;
+}
+
+.history_content_title{
+	margin-top:40px;
+	text-align:center;
+	font-family:fantasy;
+	font-style:italic;
+	font-size:250%;
+}
+
+.history_content{
+	margin-top:70px;
+	text-align:justify;
+	font-family:cursive;
+	font-style:italic;
+	font-size:40%;
+}
+
+@media screen and (max-width: 992px) {
+  p,.btn,input,div,span,h4 {
+    font-size: 90%;
+  }
+
